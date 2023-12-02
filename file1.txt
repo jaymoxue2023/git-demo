@@ -2,3 +2,4 @@ file1 from feat1
 file1 from feat2
 change from master
 change2 from master
+change from feat1
